@@ -1,13 +1,13 @@
 # Random Forest
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
-You will learn more about Ensemble techniques and apply them on your datset
+You will learn more about Random Forests and apply them on your datset
 
 ## At a glance
 * In Class Instruction: 2 Hours
 * In Class code along Dataset: Lending Club
   
- 
+
 * Skills Rehearsed
   * Apply Hyperparameter Tuning techniques in Python using sklearn
 
