@@ -27,7 +27,6 @@ After this session , you'll be able to
 1. Understand the short-comings of decision trees
 2. Understand Random Forest
 3. Understand the Random Forest hyperparameters
-4. Understand when to use which algorithm
 
 
 ## Slides
